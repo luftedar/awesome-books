@@ -1,0 +1,19 @@
+* {
+  margin: 0.3rem;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.f-column {
+  flex-direction: column;
+}
+
+.align-start {
+  align-items: start;
+}
+
+#show {
+  width: 100%;
+}
