@@ -13,3 +13,7 @@
 .align-start {
   align-items: start;
 }
+
+#show {
+  width: 100%;
+}
